@@ -5,4 +5,4 @@ Learning about programming, software development, and automation technologies.
 
 ## 🌟 Pinned Repositories
 
-[Michelle-Ann-Artiaga](https://github.com/MichelleAnnArtiaga/Michelle-Ann-Artiaga)
+
