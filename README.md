@@ -2,10 +2,8 @@
 <img src="https://github.com/MichelleannArtiaga/MichelleannArtiaga/raw/main/giphy-unscreen.gif" width="100"/>
 
 
-# Hi there Michelle! 👋
+# Hi, I'm Michelle! 
 
-BSCA student with a passion for learning and growth in the tech field.  
-Learning about programming, software development, and automation technologies.
-
-
+BSCA student with a passion for technology and continuous learning.  
+Focused on building my skills in programming, software development, and automation.  
 
