@@ -1,4 +1,5 @@
-![cute gif](https://giphy.com/gifs/peipei-peipeistudio-peizih-dsPBfiEEozyXUXShhB)
+![cute gif](https://media.giphy.com/media/dsPBfiEEozyXUXShhB/giphy.gif)
+
 
 
 # Hi there Michelle! 👋
