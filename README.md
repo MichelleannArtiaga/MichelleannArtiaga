@@ -1,4 +1,4 @@
-![cute gif](https://ph.pinterest.com/pin/200480620906973049/)
+![cute gif](https://giphy.com/gifs/peipei-peipeistudio-peizih-dsPBfiEEozyXUXShhB)
 
 
 # Hi there Michelle! 👋
