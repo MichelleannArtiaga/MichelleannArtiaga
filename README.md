@@ -1,4 +1,5 @@
-![cute gif](https://media.giphy.com/media/dsPBfiEEozyXUXShhB/giphy.gif)
+<img src="https://media.giphy.com/media/dsPBfiEEozyXUXShhB/giphy.gif" width="150"/>
+
 
 
 
