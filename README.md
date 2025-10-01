@@ -6,7 +6,7 @@
 
 BSCA student with a passion for technology and continuous learning.  
 Focused on building my skills in programming, software development, and automation.  
-![RGB LED Pinout](https://raw.githubusercontent.com/your-username/your-repo/main/images/rgb_led.png)
+
 
 
 
